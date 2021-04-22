@@ -41,7 +41,7 @@ $userName = "Sophie Dutton";
 $userEmail = "sophie.dutton@wsu.edu";
 
 // REQUIRED: set a password
-$pagePassword = "igs8629S!!";
+$pagePassword = "dtc477";
 
 // if true, requires a password and temporary session authorization to view the file; you really should leave this as true
 $passwordRequired = true; 
